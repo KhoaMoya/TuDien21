@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="height_rect">40dp</dimen>
+    <dimen name="widght_rect">30dp</dimen>
+    <dimen name="elevation_rect">10dp</dimen>
+    <dimen name="text_size_char">20sp</dimen>
+    <dimen name="margin_between">5dp</dimen>
+</resources>

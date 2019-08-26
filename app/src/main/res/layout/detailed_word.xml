@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_margin="20dp"
+    android:id="@+id/base_layout">
+
+    <android.support.v7.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_margin="20dp"
+        app:cardCornerRadius="10dp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <LinearLayout
+                android:id="@+id/head_layout"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/background_gradient"
+                android:orientation="vertical"
+                android:padding="16dp">
+
+                <TextView
+                    android:id="@+id/txt_word"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:maxLines="2"
+                    android:text="school"
+                    android:textColor="@color/colorWhite"
+                    android:textSize="25sp"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:id="@+id/txt_phonetic"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="@string/idioms_English"
+                    android:textColor="@color/colorGray"
+                    android:textSize="15sp" />
+
+                <LinearLayout
+                    android:id="@+id/menu_bar"
+                    android:layout_width="match_parent"
+                    android:layout_height="25dp"
+                    android:layout_marginTop="10sp"
+                    android:orientation="horizontal">
+
+                    <Button
+                        android:id="@+id/btn_delete"
+                        android:layout_width="80dp"
+                        android:layout_height="wrap_content"
+                        android:layout_marginRight="10dp"
+                        android:background="@drawable/background_btn_gray_corner"
+                        android:text="Xoá"
+                        android:textAppearance="@style/Base.TextAppearance.AppCompat"
+                        android:textColor="@color/colorWhite"
+                        android:textSize="12sp" />
+
+                    <Button
+                        android:id="@+id/btn_copy"
+                        android:layout_width="80dp"
+                        android:layout_height="wrap_content"
+                        android:layout_marginRight="10dp"
+                        android:background="@drawable/background_btn_gray_corner"
+                        android:text="Sao chép"
+                        android:textAppearance="@style/Base.TextAppearance.AppCompat"
+                        android:textColor="@color/colorWhite"
+                        android:textSize="12sp" />
+
+                    <Button
+                        android:id="@+id/btn_spell"
+                        android:layout_width="80dp"
+                        android:layout_height="wrap_content"
+                        android:background="@drawable/background_btn_gray_corner"
+                        android:text="Phát Âm"
+                        android:textAppearance="@style/Base.TextAppearance.AppCompat"
+                        android:textColor="@color/colorWhite"
+                        android:textSize="12sp" />
+                </LinearLayout>
+            </LinearLayout>
+
+            <com.khoa.scrollabledialog.ScrollableScrollView
+                android:id="@+id/scroll_view"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:scrollbars="vertical"
+                android:layout_marginBottom="10dp">
+                <TextView
+                    android:id="@+id/txt_meaning"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:padding="16dp"
+                    android:text="Trường học"
+                    android:textColor="@color/colorBlack"
+                    android:textSize="16dp" />
+            </com.khoa.scrollabledialog.ScrollableScrollView>
+        </LinearLayout>
+    </android.support.v7.widget.CardView>
+</LinearLayout>

@@ -1,0 +1,1337 @@
+1
+abide
+abode/abided
+abode / abided
+lưu trú, lưu lại
+
+2
+arise
+arose
+arisen
+phát sinh
+
+3
+awake
+awoke
+awoken
+đánh thức, thức
+
+4
+be
+was/were
+been
+thì, là, bị. ở
+
+5
+bear
+bore
+borne
+mang, chịu dựng
+
+6
+become
+became
+become
+trở nên
+
+7
+befall
+befell
+befallen
+xảy đến
+
+8
+begin
+began
+begun
+bắt đầu
+
+9
+behold
+beheld
+beheld
+ngắm nhìn
+
+10
+bend
+bent
+bent
+bẻ cong
+
+11
+beset
+beset
+beset
+bao quanh
+
+12
+bespeak
+bespoke
+bespoken
+chứng tỏ
+
+13
+bid
+bid
+bid
+trả giá
+
+14
+bind
+bound
+bound
+buộc, trói
+
+15
+bleed
+bled
+bled
+chảy máu
+
+16
+blow
+blew
+blown
+thổi
+
+17
+break
+broke
+broken
+đập vỡ
+
+18
+breed
+bred
+bred
+nuôi, dạy dỗ
+
+19
+bring
+brought
+brought
+mang đến
+
+20
+broadcast
+broadcast
+broadcast
+phát thanh
+
+21
+build
+built
+built
+xây dựng
+
+22
+burn
+burnt/burned
+burnt/burned
+đốt, cháy
+
+23
+buy
+bought
+bought
+mua
+
+24
+cast
+cast
+cast
+ném, tung
+
+25
+catch
+caught
+caught
+bắt, chụp
+
+26
+chide
+chid/ chided
+chid/ chidden/ chided
+mắng chửi
+
+27
+choose
+chose
+chosen
+chọn, lựa
+
+28
+cleave
+clove/ cleft/ cleaved
+cloven/ cleft/ cleaved
+chẻ, tách hai
+
+29
+cleave
+clave
+cleaved
+dính chặt
+
+30
+come
+came
+come
+đến, đi đến
+
+31
+cost
+cost
+cost
+có giá là
+
+32
+crow
+crew/crewed
+crowed
+gáy (gà)
+
+33
+cut
+cut
+cut
+cắt, chặt
+
+34
+deal
+dealt
+dealt
+giao thiệp
+
+35
+dig
+dug
+dug
+dào
+
+36
+dive
+dove/ dived
+dived
+lặn; lao xuống
+
+37
+drew
+drew
+drawn
+vẽ; kéo
+
+38
+dream
+dreamt/ dreamed
+dreamt/ dreamed
+mơ thấy
+
+39
+drink
+drank
+drunk
+uống
+
+40
+drive
+drove
+driven
+lái xe
+
+41
+dwell
+dwelt
+dwelt
+trú ngụ, ở
+
+42
+eat
+ate
+eaten
+ăn
+
+43
+fall
+fell
+fallen
+ngã; rơi
+
+44
+feed
+fed
+fed
+cho ăn; ăn; nuôi;
+
+45
+feel
+felt
+felt
+cảm thấy
+
+46
+fight
+fought
+fought
+chiến đấu
+
+47
+find
+found
+found
+tìm thấy; thấy
+
+48
+flee
+fled
+fled
+chạy trốn
+
+49
+fling
+flung
+flung
+tung; quang
+
+50
+fly
+flew
+flown
+bay
+
+51
+forbear
+forbore
+forborne
+nhịn
+
+52
+forbid
+forbade/ forbad
+forbidden
+cấm đoán; cấm
+
+53
+forecast
+forecast/ forecasted
+forecast/ forecasted
+tiên đoán
+
+54
+foresee
+foresaw
+forseen
+thấy trước
+
+55
+foretell
+foretold
+foretold
+đoán trước
+
+56
+forget
+forgot
+forgotten
+quên
+
+57
+forgive
+forgave
+forgiven
+tha thứ
+
+58
+forsake
+forsook
+forsaken
+ruồng bỏ
+
+59
+freeze
+froze
+frozen
+(làm) đông lại
+
+60
+get
+got
+got/ gotten
+có được
+
+61
+gild
+gilt/ gilded
+gilt/ gilded
+mạ vàng
+
+62
+gird
+girt/ girded
+girt/ girded
+đeo vào
+
+63
+give
+gave
+given
+cho
+
+64
+go
+went
+gone
+đi
+
+65
+grind
+ground
+ground
+nghiền; xay
+
+66
+grow
+grew
+grown
+mọc; trồng
+
+67
+hang
+hung
+hung
+móc lên; treo lên
+
+68
+hear
+heard
+heard
+nghe
+
+69
+heave
+hove/ heaved
+hove/ heaved
+trục lên
+
+70
+hide
+hid
+hidden
+giấu; trốn; nấp
+
+71
+hit
+hit
+hit
+đụng
+
+72
+hurt
+hurt
+hurt
+làm đau
+
+73
+inlay
+inlaid
+inlaid
+cẩn; khảm
+
+74
+input
+input
+input
+đưa vào (máy điện toán)
+
+75
+inset
+inset
+inset
+dát; ghép
+
+76
+keep
+kept
+kept
+giữ
+
+77
+kneel
+knelt/ kneeled
+knelt/ kneeled
+quỳ
+
+78
+knit
+knit/ knitted
+knit/ knitted
+đan
+
+79
+know
+knew
+known
+biết; quen biết
+
+80
+lay
+laid
+laid
+đặt; để
+
+81
+lead
+led
+led
+dẫn dắt; lãnh đạo
+
+82
+leap
+leapt
+leapt
+nhảy; nhảy qua
+
+83
+learn
+learnt/ learned
+learnt/ learned
+học; được biết
+
+84
+leave
+left
+left
+ra đi; để lại
+
+85
+lend
+lent
+lent
+cho mượn (vay)
+
+86
+let
+let
+let
+cho phép; để cho
+
+87
+lie
+lay
+lain
+nằm
+
+88
+light
+lit/ lighted
+lit/ lighted
+thắp sáng
+
+89
+lose
+lost
+lost
+làm mất; mất
+
+90
+make
+made
+made
+chế tạo; sản xuất
+
+91
+mean
+meant
+meant
+có nghĩa là
+
+92
+meet
+met
+met
+gặp mặt
+
+93
+mislay
+mislaid
+mislaid
+để lạc mất
+
+94
+misread
+misread
+misread
+đọc sai
+
+95
+misspell
+misspelt
+misspelt
+viết sai chính tả
+
+96
+mistake
+mistook
+mistaken
+phạm lỗi, lầm lẫn
+
+97
+misunderstand
+misunderstood
+misunderstood
+hiểu lầm
+
+98
+mow
+mowed
+mown/ mowed
+cắt cỏ
+
+99
+outbid
+outbid
+outbid
+trả hơn giá
+
+100
+outdo
+outdid
+outdone
+làm giỏi hơn
+
+101
+outgrow
+outgrew
+outgrown
+lớn nhanh hơn
+
+102
+output
+output
+output
+cho ra (dữ kiện)
+
+103
+outrun
+outran
+outrun
+chạy nhanh hơn; vượt quá
+
+104
+outsell
+outsold
+outsold
+bán nhanh hơn
+
+105
+overcome
+overcame
+overcome
+khắc phục
+
+106
+overeat
+overate
+overeaten
+ăn quá nhiều
+
+107
+overfly
+overflew
+overflown
+bay qua
+
+108
+overhang
+overhung
+overhung
+nhô lên trên, treo lơ lửng
+
+109
+overhear
+overheard
+overheard
+nghe trộm
+
+110
+overlay
+overlaid
+overlaid
+phủ lên
+
+111
+overpay
+overpaid
+overpaid
+trả quá tiền
+
+112
+overrun
+overran
+overrun
+tràn ngập
+
+113
+oversee
+oversaw
+overseen
+trông nom
+
+114
+overshoot
+overshot
+overshot
+đi quá đích
+
+115
+oversleep
+overslept
+overslept
+ngủ quên
+
+116
+overtake
+overtook
+overtaken
+đuổi bắt kịp
+
+117
+overthrow
+overthrew
+overthrown
+lật đổ
+
+118
+pay
+paid
+paid
+trả (tiền)
+
+119
+prove
+proved
+proven/proved
+chứng minh(tỏ)
+
+120
+put
+put
+put
+đặt; để
+
+121
+read
+read
+read
+đọc
+
+122
+rebuild
+rebuilt
+rebuilt
+xây dựng lại
+
+123
+redo
+redid
+redone
+làm lại
+
+124
+remake
+remade
+remade
+làm lại; chế tạo lại
+
+125
+rend
+rent
+rent
+toạc ra; xé
+
+126
+repay
+repaid
+repaid
+hoàn tiền lại
+
+127
+resell
+retold
+retold
+bán lại
+
+128
+retake
+retook
+retaken
+chiếm lại; tái chiếm
+
+129
+rewrite
+rewrote
+rewritten
+viết lại
+
+130
+rid
+rid
+rid
+giải thoát
+
+131
+ride
+rode
+ridden
+cưỡi
+
+132
+ring
+rang
+rung
+rung chuông
+
+133
+rise
+rose
+risen
+đứng dậy; mọc
+
+134
+run
+ran
+run
+chạy
+
+135
+saw
+sawed
+sawn
+cưa
+
+136
+say
+said
+said
+nói
+
+137
+see
+saw
+seen
+nhìn thấy
+
+138
+seek
+sought
+sought
+tìm kiếm
+
+139
+sell
+sold
+sold
+bán
+
+140
+send
+sent
+sent
+gửi
+
+141
+sew
+sewed
+sewn/sewed
+may
+
+142
+shake
+shook
+shaken
+lay; lắc
+
+143
+shear
+sheared
+shorn
+xén lông cừu
+
+144
+shed
+shed
+shed
+rơi; rụng
+
+145
+shine
+shone
+shone
+chiếu sáng
+
+146
+shoot
+shot
+shot
+bắn
+
+147
+show
+showed
+shown/ showed
+cho xem
+
+148
+shrink
+shrank
+shrunk
+co rút
+
+149
+shut
+shut
+shut
+đóng lại
+
+150
+sing
+sang
+sung
+ca hát
+
+151
+sink
+sank
+sunk
+chìm; lặn
+
+152
+sit
+sat
+sat
+ngồi
+
+153
+slay
+slew
+slain
+sát hại; giết hại
+
+154
+sleep
+slept
+slept
+ngủ
+
+155
+slide
+slid
+slid
+trượt; lướt
+
+156
+sling
+slung
+slung
+ném mạnh
+
+157
+slink
+slunk
+slunk
+lẻn đi
+
+158
+smell
+smelt
+smelt
+ngửi
+
+159
+smite
+smote
+smitten
+đập mạnh
+
+160
+sow
+sowed
+sown/ sewed
+gieo; rải
+
+161
+speak
+spoke
+spoken
+nói
+
+162
+speed
+sped/ speeded
+sped/ speeded
+chạy vụt
+
+163
+spell
+spelt/ spelled
+spelt/ spelled
+đánh vần
+
+164
+spend
+spent
+spent
+tiêu sài
+
+165
+spill
+spilt/ spilled
+spilt/ spilled
+tràn đổ ra
+
+166
+spin
+spun/ span
+spun
+quay sợi
+
+167
+spit
+spat
+spat
+khạc nhổ
+
+168
+spoil
+spoilt/ spoiled
+spoilt/ spoiled
+làm hỏng
+
+169
+spread
+spread
+spread
+lan truyền
+
+170
+spring
+sprang
+sprung
+nhảy
+
+171
+stand
+stood
+stood
+đứng
+
+172
+stave
+stove/ staved
+stove/ staved
+đâm thủng
+
+173
+steal
+stole
+stolen
+đánh cắp
+
+174
+stick
+stuck
+stuck
+ghim vào; đính
+
+175
+sting
+stung
+stung
+châm ; chích; đốt
+
+176
+stink
+stunk/ stank
+stunk
+bốc muìi hôi
+
+177
+strew
+strewed
+strewn/ strewed
+rắc , rải
+
+178
+stride
+strode
+stridden
+bước sải
+
+179
+strike
+struck
+struck
+đánh đập
+
+180
+string
+strung
+strung
+gắn dây vào
+
+181
+strive
+strove
+striven
+cố sức
+
+182
+swear
+swore
+sworn
+tuyên thệ
+
+183
+sweep
+swept
+swept
+quét
+
+184
+swell
+swelled
+swollen/ swelled
+phồng ; sưng
+
+185
+swim
+swam
+swum
+bơi; lội
+
+186
+swing
+swung
+swung
+đong đưa
+
+187
+take
+took
+taken
+cầm ; lấy
+
+188
+teach
+taught
+taught
+dạy ; giảng dạy
+
+189
+tear
+tore
+torn
+xé; rách
+
+190
+tell
+told
+told
+kể ; bảo
+
+191
+think
+thought
+thought
+suy nghĩ
+
+192
+throw
+threw
+thrown
+ném ; liệng
+
+193
+thrust
+thrust
+thrust
+thọc ;nhấn
+
+194
+tread
+trod
+trodden/ trod
+giẫm ; đạp
+
+195
+unbend
+unbent
+unbent
+làm thẳng lại
+
+196
+undercut
+undercut
+undercut
+ra giá rẻ hơn
+
+197
+undergo
+underwent
+undergone
+kinh qua
+
+198
+underlie
+underlay
+underlain
+nằm dưới
+
+199
+underpay
+undercut
+undercut
+trả lương thấp
+
+200
+undersell
+undersold
+undersold
+bán rẻ hơn
+
+201
+understand
+understood
+understood
+hiểu
+
+202
+undertake
+undertook
+undertaken
+đảm nhận
+
+203
+underwrite
+underwrote
+underwritten
+bảo hiểm
+
+204
+undo
+undid
+undone
+tháo ra
+
+205
+unfreeze
+unfroze
+unfrozen
+làm tan đông
+
+206
+unwind
+unwound
+unwound
+tháo ra
+
+207
+uphold
+upheld
+upheld
+ủng hộ
+
+208
+upset
+upset
+upset
+đánh đổ; lật đổ
+
+209
+wake
+woke/ waked
+woken/ waked
+thức giấc
+
+210
+waylay
+waylaid
+waylaid
+mai phục
+
+211
+wear
+wore
+worn
+mặc
+
+212
+weave
+wove/ weaved
+woven/ weaved
+dệt
+
+213
+wed
+wed/ wedded
+wed/ wedded
+kết hôn
+
+214
+weep
+wept
+wept
+khóc
+
+215
+wet
+wet / wetted
+wet / wetted
+làm ướt
+
+216
+win
+won
+won
+thắng ; chiến thắng
+
+217
+wind
+wound
+wound
+quấn
+
+218
+withdraw
+withdrew
+withdrawn
+rút lui
+
+219
+withhold
+withheld
+withheld
+từ khước
+
+220
+withstand
+withstood
+withstood
+cầm cự
+
+221
+work
+wrought / worked
+wrought / worked
+rèn (sắt)
+
+222
+wring
+wrung
+wrung
+vặn ; siết chặt
+
+223
+write
+wrote
+written
+viết

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/background_dialog_word"
+    android:orientation="vertical"
+    android:layout_marginHorizontal="16dp">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Thống kê"
+        android:textSize="20sp"
+        android:textColor="@color/colorBlack"
+        android:layout_marginTop="20dp"
+        android:layout_marginStart="16dp"
+        android:textStyle="bold"/>
+
+    <ImageView
+        android:id="@+id/img_view"
+        android:layout_gravity="center"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_marginTop="30dp"
+        android:src="@drawable/cuoi"/>
+
+    <TextView
+        android:id="@+id/txt_total"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="#747474"
+        android:layout_marginTop="50dp"
+        android:layout_marginStart="16dp"
+        android:text="Tổng số câu đã làm:"
+        android:textSize="18sp"/>
+    <TextView
+        android:id="@+id/txt_total_correct"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="#747474"
+        android:layout_marginTop="10dp"
+        android:layout_marginStart="16dp"
+        android:text="Số câu trả lời đúng:"
+        android:textSize="18sp"/>
+    <TextView
+        android:id="@+id/txt_total_skip"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="#747474"
+        android:layout_marginTop="10dp"
+        android:layout_marginStart="16dp"
+        android:text="Các từ bỏ qua:"
+        android:textSize="18sp"/>
+    <ListView
+        android:id="@+id/list_view_unknow_word"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:layout_marginHorizontal="16dp"
+        android:scrollbars="vertical">
+    </ListView>
+    <Button
+        android:id="@+id/btn_ok"
+        android:layout_width="100dp"
+        android:layout_height="50dp"
+        android:layout_gravity="bottom|right"
+        android:textSize="18sp"
+        android:layout_marginTop="30dp"
+        android:textStyle="bold"
+        android:layout_marginEnd="16dp"
+        android:layout_marginBottom="16dp"
+        android:background="@drawable/background_btn_gray_corner"
+        android:text="Ok"/>
+</LinearLayout>

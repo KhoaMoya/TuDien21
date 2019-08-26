@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Từ điển</string>
+    <string name="search">Tìm kiếm</string>
+    <string name="irregular_verbs">Động từ bất quy tắc</string>
+    <string name="my_word">Từ của tôi</string>
+    <string name="setting">Cài đặt</string>
+    <string name="information">Thông tin</string>
+    <string name="last_search">Đã xem gần đây</string>
+    <string name="result_search">Kết quả tìm thấy: </string>
+    <string name="idioms_English">Thành ngữ</string>
+    <string name="sort">Sắp xếp</string>
+    <string name="sort_by_time">Sắp xếp theo thời gian</string>
+    <string name="sort_by_ABC">Sắp xếp theo ABC</string>
+    <string name="sort_by_random">Sắp xếp ngẫu nhiên</string>
+    <string name="speech_something">Nói từ cần dịch</string>
+    <string name="toeic_word">Từ vựng Toeic</string>
+    <string name="add">Thêm</string>
+
+</resources>
